@@ -6,10 +6,9 @@ Tus tareas consisten en:
 2) Añadir un fichero <code>datos.json</code> en el que se almacenen los mismos datos (incluída la URL de la imagen) en formato [JSON](https://es.wikipedia.org/wiki/JSON).
 
 ### Magdalena Bueno Pedrera
-<img src='/Malena.' width='200px'>
+<img src='/Malena.png' width='200px'>
 
 Estudiante de Ingeniería Informática en la Universidad de Jaén.
-* **Correo**: vrivas@ujaen.es
-* **Web**: http://vrivas.es
-* **GitHub**: https://github.com/vrivas/
-* **Trello**: https://trello.com/vrivas_ujaen_es
+* **Correo**: mmbp0003@red.ujaen.es
+* **GitHub**: https://github.com/mmbp0003/
+* **Trello**: https://trello.com/b/eRXOfF9M/desarrollo-ágil-pr1
