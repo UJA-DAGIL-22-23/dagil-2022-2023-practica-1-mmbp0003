@@ -1,0 +1,17 @@
+{
+	"Titulo": "Plantilla Práctica 1",
+	"Nombre": "Magdalena Bueno Pedrera",
+	"Foto": [
+		{ "src": "/Malena.png" },
+		{ "width": "200px" }
+
+	],
+	"Información" : " Estudiante de Ingeniería Informática en la Universidad de Jaén",
+	"Correo" : "mmbp0003@red.ujaen.es",
+	"GitHub" : [
+		{ "link" : "https://github.com/mmbp0003/"}
+	],
+	"Trello" : [
+		{ "link" : "https://trello.com/b/eRXOfF9M/desarrollo-ágil-pr1"}
+	]
+}
